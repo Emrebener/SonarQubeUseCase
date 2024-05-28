@@ -1,0 +1,11 @@
+€
+uC:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.MvcApplicationPartsAssemblyInfo.csutf-8m
+bC:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.AssemblyInfo.csutf-8{
+pC:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8o
+dC:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.GlobalUsings.g.csutf-8D
+;C:\Users\EmreBener\source\repos\SonarQubeUseCase\Program.csutf-8F
+=C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\User.csutf-8p
+eC:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\ApplicationDbContextModelSnapshot.csutf-8k
+`C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\20240526184148_init.Designer.csutf-8`
+WC:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\20240526184148_init.csutf-8V
+MC:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\ApplicationDbContext.csutf-8

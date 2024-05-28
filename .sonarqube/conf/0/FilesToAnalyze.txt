@@ -1,0 +1,15 @@
+﻿C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\ApplicationDbContext.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\20240526184148_init.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\20240526184148_init.Designer.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Data\User.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Program.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.GlobalUsings.g.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.AssemblyInfo.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\obj\Debug\net8.0\SonarQubeUseCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\appsettings.Development.json
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\appsettings.json
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\database.db
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\SonarQubeUseCase.http
+C:\Users\EmreBener\source\repos\SonarQubeUseCase\Properties\launchSettings.json
